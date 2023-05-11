@@ -8,5 +8,5 @@
 # To run this code, make sure you have the Tkinter, PIL, and pytesseract libraries installed. You can install them using pip:
 
 # pip install tkinter
-# #pip install pillow
+# pip install pillow
 # pip install pytesseract
